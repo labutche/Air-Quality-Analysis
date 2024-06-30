@@ -8,6 +8,7 @@ This project aims to analyze air quality data from New York City and Beijing to 
 - `notebooks/`: Jupyter notebooks containing the analysis code.
 - `figures/`: Directory containing the generated visualizations.
 - `report/`: Directory containing the final white paper and presentation.
+- `code/`: Directory containing the code for the visualizations
 
 ## How to Run the Code
 1. Clone the repository: `git clone https://github.com/labutche/Air-Quality-Analysis.git`
