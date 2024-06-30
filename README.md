@@ -19,7 +19,11 @@ This project analyzes air quality data from New York City and Beijing to identif
 ## How to Run
 1. Clone the repository:
     ```bash
+<<<<<<< HEAD
     git clone https://github.com/labutche/air-quality-analysis.git
+=======
+    git clone https://github.com/labutche/Air-Quality-Analysis.git
+>>>>>>> a4e5b729d0614285782b5ecf634c0e5ea2799b37
     ```
 2. Navigate to the `notebooks/` directory.
 3. Run the Jupyter notebooks to reproduce the analysis and generate the visualizations.
